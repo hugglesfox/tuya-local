@@ -5,7 +5,7 @@
 - Advanced Fires 1500 electric fireplace
 - Amantii Bespoke R1-2-AP1 fireplace
 - Andersson GSH heater
-- Arlec 2200W and 2400W panel heaters
+- Arlec 2200W and 2400W panel heaters, CEH243HA ceramic heater
 - Atomi AT1632/AT1635 ceramic heaters
 - Betterlife BT1500 IR heater
 - Blumfeldt/Klarstein Cosmic Beam Smart 24 infrared radiant heater
@@ -287,6 +287,7 @@
 - Orison Chanfok Neo ceiling fan with light
 - Orison RGB ambient bladeless ceiling fan
 - Ovlaim ceiling fan with cool/warm white dimmable light
+- Point One Technology Storm VSPEC-IV dual axis corner fan
 - Prestige M3 ceiling fan with light
 - Princess DC pedestal fan
 - Reiga ceiling fans with and without light
@@ -798,6 +799,7 @@ work reliably, even if listed below.
 ### Sirens
 
 - A03 siren
+- Airam S1WFAA siren
 - Neo Coolcam Siren with temperature and humidity alert (NAS-AB02W)
 - Orion Grid Connect SWS07HA indoor siren
 - Orion Grid Connect outdoor siren (also Elesion NX-4980)
